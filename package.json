@@ -7,9 +7,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Francisco1703/segunda-entrega"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Francisco1703/segunda-entrega/issues"
+  },
+  "homepage": "https://github.com/Francisco1703/segunda-entrega#readme",
   "dependencies": {
     "@handlebars/allow-prototype-access": "^1.0.5",
     "express": "^4.18.2",
